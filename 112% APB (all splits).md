@@ -87,8 +87,8 @@ Note: All Pantheon Bosses means that you must fight every boss that appears in t
 ## Royal Waterways
  - Head down (through the Sanctum entrance to skip the arena) and rescue the grub (9)
  - Sell to Lemm [1930]
- - Head into Waterways and sit at the bench (if you don't overcharm for flukenest, do grub and mask shard first)
- - Get flukenest, make sure to open the shortcut on the way, S&Q (unequip shaman stone)
+ - Head into Waterways and sit at the bench (unequip dashmaster)
+ - Get flukenest, make sure to open the shortcut on the way, S&Q (unequip shaman stone and equip dashmaster)
  - Head up, rescue wall grub (10)
  - Head left and collect the mask shard, S&Q (equip flukenest, optimally overcharmed)
  - Head to and fight Dung Defender
@@ -96,11 +96,11 @@ Note: All Pantheon Bosses means that you must fight every boss that appears in t
  - Exit into the broken elevator shaft and head down into Ancient Basin (no Isma's yet)
 
 ## Monarch Wings & Lost Kin
- - Sit at the Basin toll bench (Change charms to twister and shaman stone) [1780]
+ - Sit at the Basin toll bench (Change charms to twister and shaman stone, or alternatively twister and flukenest) [1780]
  - Head through the Mawlurks and grab the Simple Key
  - Fight Broken Vessel
  - Exit and re-enter the room to fight Lost Kin {400}
- - Collect Monarch Wings and S&Q to the toll bench (unequip shaman and equip dashmaster)
+ - Collect Monarch Wings and S&Q to the toll bench (unequip shaman or flukes and equip dashmaster)
  - Cdash back across and rescue the wings grub (11)
  - S&Q to the toll bench (overcharm shaman stone)
  - Head to Hidden Station, stag to Dirtmouth, and bench [1480]
@@ -120,7 +120,7 @@ Note: All Pantheon Bosses means that you must fight every boss that appears in t
  - Rescue the non-mimic grub (12) (use the mimic for soul)
  - Kill the Grimmkin
  - Head to Crystal Guardian
- - Fight Crystal Guardian
+ - Fight Crystal Guardian [1865]
  - Annihilate Enraged Guardian and collect the mask shard [2415]
  - Hit the lever in the room to the right and head up to Hallownest's Crown
  - Rescue the Crown grub (13)
@@ -160,7 +160,7 @@ Note: All Pantheon Bosses means that you must fight every boss that appears in t
 ## No eyes shard
  - Unequip grimmchild and dashmaster, call the stag, bench and equip wielder + overcharm grimmchild (or just unequip Dashmaster if you don't want to overcharm)
  - Stag to Dirtmouth
- - Buy Lumafly Lantern from Sly [215]
+ - Buy Lumafly Lantern and a Vessel Fragment from Sly [215]
  - Upgrade Grimmchild
  - Pick up Fury of the Fallen and kill the Grimmkin in King's Pass
  - DG back to Greenpath and head down through Fog Canyon to Overgrown Mound
@@ -179,7 +179,7 @@ Note: All Pantheon Bosses means that you must fight every boss that appears in t
  - Optionally safety bench
  - Fight Hornet 2 and collect the King's Brand
 
-## Shade Soul
+## Shade Cloak
  - DG back to King's Station (optimally keep grimmchild and equip dashmaster + dream wielder) and stag to Hidden Station
  - Head down into the Abyss and collect Abyss Shriek
  - Head through the Sibling climb and collect Shade Cloak
@@ -255,7 +255,7 @@ Note: All Pantheon Bosses means that you must fight every boss that appears in t
 
 ## Basin Pale Ore
  - Collect the pale ore and S&Q to the hot spring (Unequip Wielder and Flukenest and Equip Dashmaster)
- - Grab Sharp Shadow, go up and collect the vessel fragment (S&Q loses a bit of time but is much more comfortable, equip sharp shadow if you do it, otherwise do it after vessel fragment)
+ - Grab Sharp Shadow, go up and collect the vessel fragment (S&Q loses almost nothing (maybe 0.2) and is much more comfortable, equip sharp shadow if you do it, otherwise do it after vessel fragment)
  - Swap Spell Twister for Sharp Shadow (or optionally just don't change charms if that's more comfortable) and head back to the Garpede room
  - Take the tram to Ancient Basin and bench
  - Rescue the Basin dive grub (28)
